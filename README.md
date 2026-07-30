@@ -213,12 +213,16 @@ Dashboard areas include:
 
 | File | Description |
 |---|---|
-| `canadian_banking_excel_portfolio_project.xlsx` | Main Excel workbook |
+| `screenshots/` | Screenshots of the Excel dashboard, reconciliation checks, feature engineering, PivotTable analysis, ToolPak analysis, and executive summary |
 | `README.md` | Project documentation |
 | `screenshots/` | Optional dashboard and workbook screenshots |
 
 ---
 
 ## Notes
+
+## Workbook Availability
+
+The full Excel workbook is not publicly uploaded to protect the integrity of the project. Screenshots and documentation are provided in this repository. The workbook can be shared upon request during recruiter or interview discussions.
 
 This project is designed as a portfolio demonstration. The dataset is synthetic and fictional. It is not affiliated with any real Canadian bank or financial institution.
